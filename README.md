@@ -16,4 +16,4 @@ All queries are written in T-SQL and use the Microsoft sample databases **Northw
 
 1. Install SQL Server and SSMS.
 2. Install the sample databases: [northwind-pubs](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs).
-3. Open `module3_sql_challenges.sql` in SSMS. Each challenge starts with `USE Northwind;` or `USE pubs;`.
+3. Open `SQL_practice.sql` in SSMS. Each challenge starts with `USE Northwind;` or `USE pubs;`..
